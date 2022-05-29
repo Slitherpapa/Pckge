@@ -2,6 +2,7 @@
 
 Procurando um gerenciador de apps/pacotes para seu Smartphone, conheça o Pckge!
 
+## Descontinuado
 
 Extenções utilizadas:
 
