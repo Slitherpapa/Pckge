@@ -1,0 +1,23 @@
+OpenLIC
+
+OpenLIC OpenLIcenCe by SlitherPapa (2022)
+
+A OpenLIC é uma licença criada por mim (SlitherPapa), para facilitar a uso permitido e moderado de meus códigos fontes. Se um app contém a frase "OpenLIC" significa que poderá modificar e utilizar o código fonte:
+
+Ao usar fontes (código fonte/.AiA) com licença OpenLIC, concorda em aceitar os termos de uso da fonte.
+
+A fonte poderá ser utilizada sem restrições, seguindo regras:
+
+Utilizar para uso próprio
+-Sempre me informar (SlitherPapa) de quaisquer alterações (pacote compilado/Alterações no código fonte)**
+-Me informar de publicações/pacote baseadas em minha fonte em "Pull Requests" aqui no Github
+-Me informar de alterações sobre melhorias/correções de meu código na parte "Issues" aqui no Github
+-Você poderá modificar do jeito que quiser, adicionando botões, textos, etc, mas sempre informando a origem do código base, que neste caso, é o meu
+-Colocar juntamente com o .AIA modificado/Pacote compilado de origem de minha fonte o MANIFESTO com meu nome (SlitherPapa) em qualquer lugar do app (Normalmente na parte de créditos)
+
+Você poderá utilizar esta licença em seu aplicativos baixando o "MANIFEST (OpenLIC)" e colocando junto com o pacote/modificação de meus apps/fonte ou integrando o conteudo do "MANIFEST (OpenLIC)" em qualquer parte de créditos (Exemplo: Tela Sobre). 
+Esta é uma forma de certificação para saber que está utilizando a fonte de meus apps dentro da licença OpenLIC (Como o próprio nome diz, pode ser utilizado como licença para distribuições que 
+tiveram a fonte baseada em meu projeto, ou seja, pode ser abertamente utilizada como licença de uso)
+
+** Para informar um uso permitido, escreva um comentário em meu canal do Youtube aqui no GitHub na parte "Pull Requests" (É necessário ter uma conta no github)
+## Download dos aplicativos pelo celular
